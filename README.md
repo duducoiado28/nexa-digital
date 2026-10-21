@@ -1,11 +1,40 @@
-# Sample Snack app
+# Nexa Digital
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Aplicativo mobile desenvolvido com React Native e Expo para uma atividade acadêmica da FATEC.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## Funcionalidades
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+- Tela de login
+- Tela inicial
+- Tela Sobre
+- Tela de contato
+- Navegação entre as telas
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+## Tecnologias utilizadas
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+- React Native
+- Expo
+- JavaScript
+
+## Acesso ao aplicativo
+
+**Usuário:** `aluno`  
+**Senha:** `123456`
+
+## Capturas de tela
+
+### Login
+![Tela de login](prints/login.png)
+
+### Home
+![Tela inicial](prints/home.png)
+
+### Sobre
+![Tela Sobre](prints/sobre.png)
+
+### Contato
+![Tela de contato](prints/contato.png)
+
+## Objetivo
+
+Projeto desenvolvido para praticar a criação de interfaces mobile e a navegação entre telas.
